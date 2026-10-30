@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[![Ecosystem Stars](https://img.shields.io/badge/Ecosystem%20Stars-35.8k%2B%20%E2%98%85-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Alpha-Park)
+[![Org Stars](https://img.shields.io/badge/Alpha--Park%20Stars-12.5k%2B%20%E2%98%85-yellow.svg?style=for-the-badge&logo=github)](https://github.com/Alpha-Park)
 [![Official Portal](https://img.shields.io/badge/Official%20Portal-GenPark.ai-blue.svg?style=for-the-badge&logo=googlechrome)](https://www.genpark.ai)
 [![LinkedIn Verified](https://img.shields.io/badge/LinkedIn-Company%20Page-0A66C2.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/92955550)
 [![Model Context Protocol](https://img.shields.io/badge/MCP%20Standard-100%25%20Compliant-purple.svg?style=for-the-badge)](https://genpark.ai)
